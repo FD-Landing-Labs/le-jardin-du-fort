@@ -9,10 +9,7 @@ const { hero } = placeholderData;
 
 export function Hero() {
   return (
-    <section
-      id="hero"
-      className="relative min-h-screen w-full overflow-hidden"
-    >
+    <section id="hero" className="relative min-h-screen w-full overflow-hidden">
       {/* Background Image */}
       <div className="absolute inset-0">
         <Image
@@ -32,7 +29,11 @@ export function Hero() {
         <motion.div
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.7, delay: 0.3, ease: [0.25, 0.46, 0.45, 0.94] }}
+          transition={{
+            duration: 0.7,
+            delay: 0.3,
+            ease: [0.25, 0.46, 0.45, 0.94]
+          }}
           className="flex-1 flex flex-col justify-center max-w-xl"
         >
           <p className="text-white/90 text-lg md:text-2xl leading-snug tracking-tighter font-light">
@@ -44,7 +45,11 @@ export function Hero() {
             href={hero.cta.href}
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.5, delay: 0.5, ease: [0.25, 0.46, 0.45, 0.94] }}
+            transition={{
+              duration: 0.5,
+              delay: 0.5,
+              ease: [0.25, 0.46, 0.45, 0.94]
+            }}
             whileHover={{ scale: 1.02 }}
             whileTap={{ scale: 0.98 }}
             className="mt-8 inline-flex items-center justify-center w-fit px-6 py-3 bg-white text-foreground text-base capitalize font-medium hover:bg-primary hover:text-white transition-colors tracking-tighter"
@@ -59,10 +64,14 @@ export function Hero() {
           <motion.div
             initial={{ opacity: 0, y: 50 }}
             animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8, delay: 0.4, ease: [0.25, 0.46, 0.45, 0.94] }}
+            transition={{
+              duration: 0.8,
+              delay: 0.4,
+              ease: [0.25, 0.46, 0.45, 0.94]
+            }}
             className="overflow-hidden"
           >
-            <h1 className="font-heading text-[clamp(4rem,15vw,14rem)] font-normal text-white leading-[0.85] tracking-tighter">
+            <h1 className="font-heading text-[clamp(2rem,10vw,10rem)] font-normal text-white leading-[0.85] tracking-tighter">
               {hero.brandName}
             </h1>
           </motion.div>
@@ -72,7 +81,11 @@ export function Hero() {
             href={hero.conciergeCard.href}
             initial={{ opacity: 0, x: 30 }}
             animate={{ opacity: 1, x: 0 }}
-            transition={{ duration: 0.6, delay: 0.7, ease: [0.25, 0.46, 0.45, 0.94] }}
+            transition={{
+              duration: 0.6,
+              delay: 0.7,
+              ease: [0.25, 0.46, 0.45, 0.94]
+            }}
             whileHover={{ scale: 1.02 }}
             className="hidden md:flex absolute bottom-0 right-0 items-center gap-4 bg-white p-2 pr-2 shadow-lg group"
           >
