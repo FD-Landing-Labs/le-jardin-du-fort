@@ -1,16 +1,16 @@
 {
   "site": {
-    "name": "Le Jardin Du Fort",
+    "name": "Le Jardin Du",
     "tagline": "Luxury Hotel & Resort",
-    "description": "Experience unparalleled luxury at Le Jardin Du Fort - where timeless elegance meets modern sophistication. A 5-star sanctuary for discerning travelers.",
+    "description": "Experience unparalleled luxury at Le Jardin Du - where timeless elegance meets modern sophistication. A 5-star sanctuary for discerning travelers.",
     "logo": {
       "default": "https://placehold.co/140x50/1a1a1a/c9a962?text=LE+JARDIN+DU+FORT",
       "white": "https://placehold.co/140x50/ffffff/1a1a1a?text=LE+JARDIN+DU+FORT",
-      "alt": "Le Jardin Du Fort Luxury Hotel Logo"
+      "alt": "Le Jardin Du Luxury Hotel Logo"
     },
     "seo": {
-      "title": "Le Jardin Du Fort - 5-Star Luxury Hotel & Resort",
-      "description": "Discover exceptional hospitality at Le Jardin Du Fort. World-class amenities, exquisite dining, and breathtaking views await you at our prestigious 5-star hotel.",
+      "title": "Le Jardin Du - 5-Star Luxury Hotel & Resort",
+      "description": "Discover exceptional hospitality at Le Jardin Du. World-class amenities, exquisite dining, and breathtaking views await you at our prestigious 5-star hotel.",
       "keywords": [
         "luxury hotel",
         "5-star resort",
@@ -29,12 +29,12 @@
     }
   },
   "navbar": {
-    "brandName": "Le Jardin Du Fort",
+    "brandName": "Le Jardin Du",
     "brandMark": "",
     "logo": {
       "default": "/assets/images/logo.png",
       "white": "https://placehold.co/140x50/ffffff/1a1a1a?text=LE+JARDIN+DU+FORT",
-      "alt": "Le Jardin Du Fort Luxury Hotel Logo"
+      "alt": "Le Jardin Du Luxury Hotel Logo"
     },
     "barLinks": [
       {
@@ -101,7 +101,7 @@
       }
     ],
     "featured": {
-      "studioName": "Le Jardin Du Fort Hotel",
+      "studioName": "Le Jardin Du Hotel",
       "image": "https://placehold.co/600x800/1a1a1a/c9a962?text=Featured",
       "copyright": "2026 All rights reserved"
     },
@@ -125,7 +125,7 @@
     ]
   },
   "hero": {
-    "brandName": "Le Jardin Du Fort",
+    "brandName": "Le Jardin Du",
     "description": "We help discerning travelers discover extraordinary stays with clarity—featuring curated accommodations and seamless luxury service.",
     "image": "/assets/images/hero.avif",
     "cta": {
@@ -189,7 +189,7 @@
     "places": [
       {
         "id": "bar",
-        "title": "The Le Jardin Du Fort Bar",
+        "title": "The Le Jardin Du Bar",
         "description": "The bar is the social heart of the hotel—a sophisticated space designed for craft cocktails, fine spirits, and elegant evenings.",
         "image": "/assets/images/rooms/bar.png",
         "size": "200 m2",
@@ -240,12 +240,12 @@
     "rooms": [
       {
         "id": "bar",
-        "name": "The Le Jardin Du Fort Bar",
+        "name": "The Le Jardin Du Bar",
         "description": "The bar is the social heart of the hotel—a sophisticated space designed for craft cocktails, fine spirits, and elegant evenings with live jazz performances.",
         "image": "/assets/images/floor/bar.jpg",
         "details": {
           "rooms": "1",
-          "location": "Ground Floor, Le Jardin Du Fort Tower",
+          "location": "Ground Floor, Le Jardin Du Tower",
           "designer": "Studio Luxe Interiors",
           "available": "Premium Spirits, Craft Cocktails, Live Music, VIP Lounge",
           "size": "200 sqm"
@@ -271,7 +271,7 @@
         "image": "/assets/images/floor/premium.png",
         "details": {
           "rooms": "1",
-          "location": "Floors 5-10, Le Jardin Du Fort Tower",
+          "location": "Floors 5-10, Le Jardin Du Tower",
           "designer": "Studio Luxe Interiors",
           "available": "King Bed, City View, Rain Shower, Mini Bar",
           "size": "45 sqm"
@@ -341,7 +341,7 @@
   "cities": {
     "sectionLabel": "Locations",
     "headline": "Featured cities",
-    "description": "Experience the Le Jardin Du Fort difference across our collection of prestigious properties in the world's most coveted destinations.",
+    "description": "Experience the Le Jardin Du difference across our collection of prestigious properties in the world's most coveted destinations.",
     "locations": [
       {
         "id": "dubai",
@@ -398,7 +398,7 @@
         "id": "testimonial-1",
         "name": "Maria Thompson",
         "role": "Frequent Guest",
-        "quote": "Le Jardin Du Fort made our anniversary celebration incredibly special. Their attention to detail, responsiveness, and personalized service helped us create memories that will last forever.",
+        "quote": "Le Jardin Du made our anniversary celebration incredibly special. Their attention to detail, responsiveness, and personalized service helped us create memories that will last forever.",
         "avatar": "/assets/images/avatar/1.jpg"
       },
       {
@@ -419,7 +419,7 @@
         "id": "testimonial-4",
         "name": "David Chen",
         "role": "Family Vacation",
-        "quote": "Traveling with kids can be challenging, but Le Jardin Du Fort made it effortless. The staff went above and beyond to ensure our whole family felt welcome.",
+        "quote": "Traveling with kids can be challenging, but Le Jardin Du made it effortless. The staff went above and beyond to ensure our whole family felt welcome.",
         "avatar": "/assets/images/avatar/4.jpg"
       }
     ]
@@ -473,7 +473,7 @@
       "backgroundImage": "/assets/images/footer.jpg"
     },
     "brand": {
-      "name": "Le Jardin Du Fort"
+      "name": "Le Jardin Du"
     },
     "navMenu": {
       "title": "Nav menu",
@@ -553,6 +553,6 @@
         "icon": "instagram"
       }
     ],
-    "copyright": "2026 Le Jardin Du Fort Hotels & Resorts. All rights reserved."
+    "copyright": "2026 Le Jardin Du Hotels & Resorts. All rights reserved."
   }
 }
